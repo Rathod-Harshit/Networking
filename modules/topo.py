@@ -1,11 +1,7 @@
 #!/usr/bin/python
 #
 #   Assignment : CPSC-558 Project
-#   Authors    : Harshit Singh Rathod (rathod10892@csu.fullerton.edu)
-#                Rahul Chauhan        (rahulchauhan@csu.fullerton.edu)
-#                Nathan Elder   
-#                Alexis Apilado    
-#                Ly Ngo   
+#   Author(s)    : Harshit Singh Rathod 
 #   Program    : This is a python program to create mininet topologies. 
 #                Adds two hosts, seven switches and links between them
 #                Reference: http://mininet.org/walkthrough/
