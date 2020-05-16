@@ -1,11 +1,7 @@
 #!/usr/bin/python
 #
 #   Assignment : CPSC-558 Project
-#   Authors    : Harshit Singh Rathod (rathod10892@csu.fullerton.edu)
-#                Rahul Chauhan        (rahulchauhan@csu.fullerton.edu)
-#                Nathan Elder   
-#                Alexis Apilado    
-#                Ly Ngo   
+#   Author(s)    : Harshit Singh Rathod  
 #   Program    : This is an RYU SDN controller program. It consists path cost calculation routines and DFS algorithm for path finding. 
 #                It also has several handlers for managing switches.
 #                Reference: Handlers > Examples in ryu/ryu/app/
